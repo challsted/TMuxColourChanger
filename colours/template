@@ -1,0 +1,13 @@
+# Template File
+# Please Add your details here (such as a link to your github!)
+# Want to share anythign else? 
+
+
+#Need to add details here on what all this stuff does!!!
+
+set -g window-status-current-format "#[fg=colour28,bg=colour235] #I #[ft=colour184] #W #[fg=colour28] #F "
+set -g window-status-format "#[fg=colour28] #I #[ft=colour184] #W #[fg=colour202] #F "
+set -g status-left-fg "#[colour184]"
+set -g status-left-bg "#[colour233]"
+set -g status-right-fg "#[colour184]"
+set -g status-right-bg "#[colour233]"
