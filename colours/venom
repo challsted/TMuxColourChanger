@@ -1,0 +1,11 @@
+# Venom Color Scheme for Tmux
+# Origionally Created by Fulloverride (https://github.com/fulloverride/)
+# Converted to Tmux Colorscheme by HackingInformation
+
+
+set -g window-status-current-format "#[fg=colour28,bg=colour235] #I #[ft=colour184] #W #[fg=colour28] #F "
+set -g window-status-format "#[fg=colour28] #I #[ft=colour184] #W #[fg=colour202] #F "
+set -g status-left-fg "#[colour184]"
+set -g status-left-bg "#[colour233]"
+set -g status-right-fg "#[colour184]"
+set -g status-right-bg "#[colour233]"
