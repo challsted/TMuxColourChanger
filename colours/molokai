@@ -1,0 +1,12 @@
+#####
+# Molokai Color Scheme for Tmux
+# Origionally Created by HackingInformation
+# Converted to Tmux Colorscheme by HackingInformation
+#####
+
+set -g window-status-current-format "#[fg=colour46,bg=colour235] #I #[ft=colour201] #W #[fg=colour202] #F "
+set -g window-status-format "#[fg=colour46] #I #[ft=colour235] #W #[fg=colour202] #F "
+set -g status-left-fg "#[colour46]"
+set -g status-left-bg "#[colour233]"
+set -g status-right-fg "#[colour201]"
+set -g status-right-bg "#[colour233]"
