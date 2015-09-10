@@ -1,7 +1,7 @@
 # TMuxColourChanger
-Plugin for TMux to allow for super easy themeing!
-Written in Shell and using TMux Commands
-Work In Progress Plugin For TMux (Looking for help!!)
+Plugin for TMux to allow for super easy themeing!  
+Written in Shell and using TMux Commands  
+Work In Progress Plugin For TMux (Looking for help!!)  
 
 ## Purpose
 The purpose of this plugin is to allow for easy and quick changing of what I call a "ColorScheme" for TMux
